@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a Software Engineer & Graphic Designer<br>💎 I'm a Python Enthusiast <br>📚 I'm currently learning C/C++<br>🤼‍♂️ I'm looking to collaborate on Python, C/C++ & JavaScript Projets<br>🚶 I'm I am  Christian, sociable and funny<br>
+👨‍💻 I'm a Software Engineer & Graphic Designer<br>💎 I'm a Python Enthusiast <br>📚 I'm currently learning C/C++<br>💞️ I’m looking to collaborate on Python, C/C++ & JavaScript Projets to solve high quality challenging problems<br>🚶 I'm Christian, sociable and funny<br>📫 How to reach me https://bento.me/elvis<br>
 
 
 ## 🌐 Socials:
