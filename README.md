@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elvisraymond&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![An image of @elvisraymond's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elvisraymond)](https://holopin.io/@elvisraymond)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=elvisray_dev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
